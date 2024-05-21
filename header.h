@@ -1,0 +1,11 @@
+#define LCD_SCL_PIN 15
+#define LCD_SDA_PIN 14
+#define LED_RED_PIN 12
+#define LED_GREEN_PIN 11
+#define BUTTON_PIN 10
+#define LED_YELLOW_PIN 9
+#define TM_STB_PIN 6
+#define TM_CLK_PIN 5
+#define TM_DIO_PIN 4
+#define BUZZER_PIN 2
+#define POT_METER_PIN A5
